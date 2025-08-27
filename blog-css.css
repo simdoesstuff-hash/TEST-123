@@ -1,0 +1,24 @@
+/*elements selector*/
+
+p{
+	color:blue;
+}
+
+
+a{
+	color: red;
+}
+
+/*giving an element a unique id*/
+
+
+#para1{
+	color: orange;
+}
+
+
+/*tageting by class name*/
+
+.text-color{
+	color: hotpink;
+}
